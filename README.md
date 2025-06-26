@@ -11,3 +11,6 @@ Soy Ernesto, instructor en [La Geekipedia de Ernesto](https://www.youtube.com/La
 
 ## ¿Cómo navegar en este proyecto?
 Puedes clonar el repositorio y una vez creado, ejecuta la clase principal para ver su funcionamiento, la clase principal se llama main.py la cual esta fuera de los directorios.
+
+## Resultado final - Programa en ejecución
+![Clic aquí para ver la imagen](images/ResultadoFinal.jpg)
