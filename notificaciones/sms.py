@@ -7,4 +7,4 @@ class SMS(Notificador):
         self.__numero_telefono = numero_telefono
 
     def enviar(self, mensaje):
-        return "Enviando SMS al número:", self.__numero_telefono, "\nContenido del mensaje: ", mensaje
+        return "Enviando SMS al teléfono:", self.__numero_telefono, "\nContenido del mensaje: ", mensaje
